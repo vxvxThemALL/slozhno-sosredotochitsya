@@ -10,10 +10,7 @@
     --subtitle-color: #353430;
     --text-color: #353430;
     --decoration-color: #353430;
-}
-
-.theme_light .header__decor-element {
-  display: none;
+    --decor-element-color: transparent;
 }
 
 @media (prefers-color-scheme: light) {
@@ -22,16 +19,14 @@
     --bgc-color: #FFC2E6;
     --accent-color: #FF8DCB;
     --buttons-color: #353430;
+    --buttons-hover-color: rgba(50, 49, 45, 0.4);
     --title-color: #FF0070;
-    --title-font-color: #FF8DCB;
+    --title-font-color: #FFC2E6;
     --desc-text-color: #353430;
     --subtitle-color: #353430;
     --text-color: #353430;
     --decoration-color: #353430;
-  }
-
-  .theme_light .header__decor-element {
-    display: none;
+    --decor-element-color: transparent;
   }
 }
 

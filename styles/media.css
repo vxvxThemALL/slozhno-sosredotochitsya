@@ -31,7 +31,7 @@
 }
 
 
-@media (width <= 550px) {
+@media (width <= 767px) {
   :root {
     --content-margin: 50px;
     --header-footer-margin: 40px;
