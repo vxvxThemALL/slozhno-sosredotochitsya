@@ -105,12 +105,7 @@
 
 .header__theme-menu-button_active {
   pointer-events: none;
-}
-
-.header__theme-menu-button_active {
-  outline: 1px solid var(--buttons-color);
-  pointer-events: none;
-
+  border: 1px solid var(--buttons-color);
 }
 
 .header__decor-element {
