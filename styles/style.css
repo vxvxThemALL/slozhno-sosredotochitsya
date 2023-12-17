@@ -100,9 +100,6 @@
 
 .header__theme-menu-button:hover {
   outline: 1px solid var(--buttons-hover-color);
-}
-
-.header__theme-menu-button_active {
   pointer-events: none;
 }
 
